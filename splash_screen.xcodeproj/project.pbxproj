@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DD2DB7462901767700DAD16C /* splash_screenApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2DB7452901767700DAD16C /* splash_screenApp.swift */; };
 		DD2DB7482901767700DAD16C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2DB7472901767700DAD16C /* ContentView.swift */; };
 		DD2DB74A2901767800DAD16C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD2DB7492901767800DAD16C /* Assets.xcassets */; };
 		DD2DB74D2901767800DAD16C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD2DB74C2901767800DAD16C /* Preview Assets.xcassets */; };
@@ -35,7 +34,6 @@
 
 /* Begin PBXFileReference section */
 		DD2DB7422901767700DAD16C /* splash_screen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = splash_screen.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD2DB7452901767700DAD16C /* splash_screenApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splash_screenApp.swift; sourceTree = "<group>"; };
 		DD2DB7472901767700DAD16C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DD2DB7492901767800DAD16C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD2DB74C2901767800DAD16C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -94,7 +92,6 @@
 		DD2DB7442901767700DAD16C /* splash_screen */ = {
 			isa = PBXGroup;
 			children = (
-				DD2DB7452901767700DAD16C /* splash_screenApp.swift */,
 				DD2DB7472901767700DAD16C /* ContentView.swift */,
 				DD2DB7492901767800DAD16C /* Assets.xcassets */,
 				DD2DB74B2901767800DAD16C /* Preview Content */,
@@ -258,7 +255,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD2DB7482901767700DAD16C /* ContentView.swift in Sources */,
-				DD2DB7462901767700DAD16C /* splash_screenApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
